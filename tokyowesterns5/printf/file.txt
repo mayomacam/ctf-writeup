@@ -1,0 +1,41 @@
+
+Scan Time:     2019-08-31 08:49:36
+Target File:   /media/amino/985CCB2A5CCB01CC/ctf/tokyowesterns5/printf/ld-linux-x86-64-b6d3f5f70ba36f736a596a01829be4d619e373b4167b513d634c044ac7d74b94.so.2
+MD5 Checksum:  b583c27f22ea4ec546ea3aec07a420f7
+Signatures:    386
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             ELF, 64-bit LSB shared object, AMD x86-64, version 1 (SYSV)
+140631        0x22557         Unix path: /usr/lib/x86_64-linux-gnu/
+
+
+Scan Time:     2019-08-31 08:49:36
+Target File:   /media/amino/985CCB2A5CCB01CC/ctf/tokyowesterns5/printf/libc-d7ab015f68cd23c410d57af6552deb54bcb16ff64177c8f2c671902915b75110.so.6
+MD5 Checksum:  2fb0d6800d4d79ffdc7a388d7fe6aea0
+Signatures:    386
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             ELF, 64-bit LSB shared object, AMD x86-64, version 1 (GNU/Linux)
+9831          0x2667          mcrypt 2.2 encrypted data, algorithm: blowfish-448, mode: CBC, keymode: 8bit
+1767977       0x1AFA29        Unix path: /usr/share/locale
+1775171       0x1B1643        Unix path: /sys/devices/system/cpu
+1781860       0x1B3064        Unix path: /var/run/keyservsock
+1782904       0x1B3478        Unix path: /usr/lib/x86_64-linux-gnu/gconv/gconv-modules.cache
+1783296       0x1B3600        Unix path: /usr/share/locale/%L/%N:/usr/share/locale/%L/LC_MESSAGES/%N:/usr/share/locale/%l/%N:/usr/share/locale/%l/LC_MESSAGES/%N:
+1797704       0x1B6E48        Unix path: /var/run/utmp
+1798384       0x1B70F0        Unix path: /usr/share/locale
+1800104       0x1B77A8        Copyright string: "Copyright (C) 2019 Free Software Foundation, Inc."
+1800480       0x1B7920        Unix path: /usr/lib/x86_64-linux-gnu/gconv
+
+
+Scan Time:     2019-08-31 08:49:38
+Target File:   /media/amino/985CCB2A5CCB01CC/ctf/tokyowesterns5/printf/printf-60b0fcfbbb43400426aeae512008bab56879155df25c54037c1304227c43dab4
+MD5 Checksum:  0b27f5ca646fecc10f150c1c4eaec077
+Signatures:    386
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             ELF, 64-bit LSB shared object, AMD x86-64, version 1 (SYSV)
+
