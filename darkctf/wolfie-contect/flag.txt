@@ -1,0 +1,11 @@
+darkCTF{C0ntacts_4re_1mp0rtant}
+
+
+dealer broker target money-giver
+
+in autopsy darkctf2 case. contact folder.
+
+http://localhost:9999/autopsy?mod=1&submod=2&case=darkctf2&host=host1&inv=mayomacam&vol=vol1
+
+in autopsy add case...
+then while checking filesystem in contact folder check all files three files contain flag three parts.

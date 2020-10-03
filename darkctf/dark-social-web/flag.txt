@@ -1,0 +1,25 @@
+0xDarkArmy
+
+start search with it...
+
+[*] Checking username 0xDarkArmy on:
+[+] CashMe: https://cash.me/$0xDarkArmy
+[+] HackerOne: https://hackerone.com/0xDarkArmy
+[+] Instagram: https://www.instagram.com/0xDarkArmy
+[+] Reddit: https://www.reddit.com/user/0xDarkArmy
+[+] Telegram: https://t.me/0xDarkArmy
+[+] TikTok: https://tiktok.com/@0xDarkArmy
+[+] Twitter: https://mobile.twitter.com/0xDarkArmy
+
+
+reddit to onoin website
+
+then while searching go to robots.txt...
+
+http://cwpi3mxjk7toz7i4.onion/robots.txt
+
+
+darkctf{S0c1a1_D04k_w3b_051n7}
+
+
+fisrt in robots.txt and second in flag cookie...

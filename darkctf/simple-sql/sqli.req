@@ -1,0 +1,25 @@
+GET / HTTP/1.1
+
+Host: simplesql.darkarmy.xyz
+
+User-Agent: Mozilla/5.0 (Windows NT 10.0; rv:78.0) Gecko/20100101 Firefox/78.0
+
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+
+Accept-Language: en-US,en;q=0.5
+
+Accept-Encoding: gzip, deflate
+
+Referer: https://ctf.darkarmy.xyz/
+
+DNT: 1
+
+Connection: close
+
+Cookie: __cfduid=dc71fb0e0f4d019dc06c5ce9cdc099bd21601031378
+
+Upgrade-Insecure-Requests: 1
+
+Cache-Control: max-age=0
+
+Content-Length: 4

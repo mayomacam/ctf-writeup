@@ -1,0 +1,6 @@
+just login then i see history then find we see flag.txt
+
+darkCTF{h0pe_y0u_used_intended_w4y}
+
+
+got flag.

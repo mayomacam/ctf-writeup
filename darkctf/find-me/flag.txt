@@ -1,0 +1,40 @@
+first search different tool debugfs then lsof 
+
+
+df /
+
+https://www.linux.com/news/bring-back-deleted-files-lsof/
+
+
+
+
+ls -l /proc/11/fd/3
+
+
+cp -a /proc/11/fd/3 pass.wrong
+
+
+file pass.wrong
+
+
+file /proc/11/fd/3
+
+
+cp /proc/11/fd/3 pass.saved
+
+
+mysecondpassword123
+
+got password..... again...
+
+
+got second user with this.
+
+using find find file in home
+
+wolf2@29f1a33bb17d:/home/wolf2/proc/g$ cat nice_work 
+darkCTF{you are standing on the flag}
+
+}!!!kr0w_3c1n_hha0w{FTCkrad
+
+darkCTF{w0ahh_n1c3_w0rk!!!}

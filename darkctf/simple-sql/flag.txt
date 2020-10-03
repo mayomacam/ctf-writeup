@@ -1,0 +1,36 @@
+Try to find username and password
+
+http://simplesql.darkarmy.xyz/
+
+<br><!-- Try id as parameter  --> 
+</body>
+
+Try to fix your error in sql syntex
+
+http://simplesql.darkarmy.xyz/index.php?id=1
+Username : LOL Password : Try 
+
+id=2
+Username : Try Password : another
+
+id=3
+Username : fake Password : p@ssword
+
+font size="5" color="green">Username : fake Password : <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="96e6d6e5e5e1f9e4f2">[email&#160;protected]</a><br></font>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+
+
+
+id=4
+Username : its secure Password : dont try to hack
+
+id=5
+Username : not Password : easy
+
+id=9
+
+Username : flag Password : darkCTF{it_is_very_easy_to_find}
+
+
+
+darkCTF{it_is_very_easy_to_find}

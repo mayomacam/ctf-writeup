@@ -1,0 +1,501 @@
+../
+shopt
+cat
+cat ./ls
+cat ./bin
+python
+python3
+gcc
+wget
+curl
+ListAllCommands | grep searchstr
+compgen -c
+pwd
+.....
+..
+ls / >~/out.txt
+ls /home >~/out.txt
+ls /home
+ls /
+sudo su
+sh
+ls/root
+ls /root
+git
+hill
+kill
+test
+ls
+ls -la
+cat
+cat t
+ls -la bin
+exit
+ls
+cat imp/flag.txt 
+ls
+id
+ls
+cd ..
+ls
+cd bin
+ls
+cd imp
+ls
+ls -la
+cd .
+cd bin
+ls bin
+bin/cat imp
+cat imp
+cd imp
+ls imp
+cat imp/flag.txt 
+ssh ctf@findme.darkarmy.xyz -p 10000
+find jail
+find *jail
+su
+su
+su
+cd ..
+ls
+cd bin
+exit
+ls
+ls -a
+less .bash_history 
+more .bash_history 
+ls imp
+cat imp/flag.txt 
+ls
+exit
+ls
+clear
+pwd
+sudo -l
+ls
+pwd
+ls -al
+cat ls
+clear
+ls
+cd imp/
+cat /etc/passwd
+cat /etc/crontab
+crontab -e
+clear
+find / -type f | xagrs grep -o DarkCTF 2>&1 /dev/null
+find / -type f -execgrep -o DarkCTF 2>&1 /dev/null{}
+find / -type f -exec grep -o DarkCTF 2>&1 /dev/null{}
+ls -al
+cd
+cd /
+cd bin
+sudo cd bin
+ls bin
+ls -a bin
+cat /flag.txt
+ls
+ls .cache
+cat .cache/motd.legal-displayed 
+ls
+ls -a
+cat .profile 
+clear
+ls
+ls -a
+cat .bash_history 
+ls imp
+cat imp/flag.txt 
+ls
+ls -la
+./bin/
+cd bin/
+ls
+cd imp/
+ls
+cd ls 
+sudo -l
+uname -a
+exit
+ll
+ls -l
+cd ..
+cd bin
+ls bin
+ls -l bin
+bin/cat /etc/passwd
+ls -la
+ls -l imp
+bin/cat imp/flag.txt
+ln
+ln -s imp/flag.txt t
+bin/cat t
+cat t
+ls -la
+rm t
+ls
+pwd
+tree
+ls -la 
+ls -la bin
+ls -la imp
+cat
+cat imp/flag.txt 
+exit
+ls
+ls -al
+find ls
+ls
+cat t
+ssh ctf@findme.darkarmy.xyz -p 10000
+logout
+id
+sudo -l
+find / -perm -u=s -type f 2> /dev/null
+find / -perm -u=s -type f 2> anan
+ls
+l *
+ls -lah *
+cat imp/flag.txt 
+exit
+ls
+ls
+cat lsa
+ls -ali
+ls -a
+ls -l
+cat ls 
+cat ls | grep dark
+cat ls | grep dark
+cat ls | grep ctf
+cat ls | strings
+sudo apt install strings
+ls
+cat bin/
+ls bin/
+bin cat
+ls
+cat imp/
+ls imp/
+cat imp/flag.txt 
+exit
+ls
+sudo -s
+sudo
+ls
+#!/bin/sh
+ls
+/bin/
+cd bin/
+ls
+ls
+ls -l
+copy
+cd copy 
+ls
+cd ls
+ls
+clear
+ls
+ll
+id
+sudo -l
+whoami
+ls -la
+cat .bash_history
+ls
+find 
+cat imp/flag.txt 
+hostname
+exit
+ls
+ls
+cat bin
+ls bin
+ls imp
+cd imp
+/bin/cat /imp/flag.txt
+cat flag.txt
+sudo -l
+sudo -l
+ls -al
+cat .bash_history
+cat imp/flag.txt
+exit
+id
+ls
+pwd
+ls bin
+ls bin/cat
+bin/cat
+./bin/cat 
+ls imp
+cd bin
+$
+$0
+$1
+$0 -c 'bin/cat'
+/bin/cat
+ln
+ln -s bin/cat cat
+ls
+cat
+cat imp/flag.txt
+ls
+rm
+rm cat
+ls
+exit
+ls
+cd ls
+ls
+cd imp
+ls
+cd bin
+mkdir copy
+cp bin copy
+ls
+cd copy
+rm copy
+rm -rf copy
+ls -al
+chmod +rwx bin
+cd /bin/profile
+mkdir copy
+chroot copy
+cd copy
+ls copy
+cd
+cd copy
+ls -l copy
+rm -rf copy
+vi copy
+touch copy
+chmod +rwx copy
+vi copy
+vim copy
+nano copy
+ls -l bin
+cat bin
+cat /bin/cat
+ls
+ls -l imp
+echo "test" > copy
+cat /imp/flag.txt
+ls -l imp
+ls -la imp
+chmod +rwx /imp/flag.txt
+cd imp
+cd imp/.
+cd imp/..
+ls -la
+rm -rf copy
+ls -la
+.cache
+ls .cache
+ls
+ls .bash_history 
+cd .bash_history 
+ls -la .bash_history 
+cat .bash_history 
+ls -la
+cat .cache
+cat .local
+cat .profile
+cat .ssh
+ls -la bin
+cat /bin/.
+cat /bin/..
+ls -la /bin/..
+ls -la imp
+ls -ls /imp/..
+ls -la imp/..
+cd ..
+ls
+ls -la
+ls -la imp
+chmod +u flag.txt
+ls -l imp/flag.txt
+cat  imp/flag.txt
+exit
+ls
+whoami
+cat /etc/passwd
+ls
+ls ..
+ls -la
+cat .bash_history 
+cat imp/flag.txt
+ls -la
+cd imp/
+ls -la
+ls -la /imp
+ls -la imp/
+cat imp/flag.txt 
+ls -la bin/
+bin/cat imp/flag.txt 
+./bin/cat imp/flag.txt 
+exit
+help
+tree
+dir
+break
+continue
+history
+bg
+jailbreak
+flag
+printf flag
+printf
+printf bin/
+printf .profile
+mapfile
+printf ls
+ls
+dir ls
+ls
+pwd
+cd bin
+cd imp
+cd Desktop
+cd .bash_history
+cd .bash_logout
+cd .cache/
+mapfile
+bind
+declare
+hashall
+pwd
+tree
+sudo
+dl
+scp
+sftp
+cp
+help
+jobs
+ls
+cd imp
+ls
+cat flag.txt
+exit
+bash -r
+chsh
+ls
+cd bin
+env
+export PATH=/bin:/usr/bin:/sbin:$PATH
+/binsh
+/bin/sh
+cp /bin/sh /current/directory; sh
+exit
+bash
+/bin/bash
+bin
+cd bin
+cd imp
+cd ls
+ls
+imp
+cat imp
+cd imp
+cd bin
+bim
+bin
+/
+sh -r
+rsh
+rbash
+logoff
+logout
+exit
+ls
+cd /
+;s
+rbash
+exit
+ls
+id
+cd
+ls
+pwd
+ls ..
+sudo -l
+su
+find / -perm -4000 2>/dev/null
+ls -la
+ls bin/
+ls imp/
+cat imp/flag.txt 
+echo $path
+ls
+ls -al
+cd bin
+cd imp
+cd ls
+ls
+cd ..
+cd /
+cd ..
+cd ../..
+ls
+ls -alt
+cat .bash_history 
+cat imp/flag.txt
+ls
+ls -l
+whoami
+cd bin/
+ll
+ls 
+./cat 
+./cat /etc/passwd
+ls /home/
+sudo -i
+bash
+ls
+cd ../
+ll
+ls 
+cd imp/
+ls
+cat flag.txt 
+ssh wolfie@linuxstarter.darkarmy.xyz -p 8001 > info.txt
+sudo ssh wolfie@linuxstarter.darkarmy.xyz -p 8001 > info.txt
+ssh wolfie@linuxstarter.darkarmy.xyz -p 8001
+clear
+ls
+ls -al
+find / -type f -name flag 2>/dev/null
+find / -type f -name flag
+strings ls
+cat << ls
+cat < ls
+cat < ls | grep -i  'flag'
+ls
+cd imp/
+ls
+env
+echo $PATh
+echo $PATH
+flag
+ls /root/bin
+ls /home/wolfie/bin
+cat
+ls
+ls /home/wolfie/.local/bin
+bash
+cat .bashrc 
+echo a > .bashrc
+/home/wolfie/.local/binbash
+bash
+dash
+ls
+pwd
+ls -la
+./ls
+. ls
+su -c ls
+exit
+
